@@ -564,8 +564,10 @@ This keeps the system functional for real-world image quality variation without 
 | [Ganesh Jalkote](https://github.com/ganeshjalkote932) | AI & ML | Model training, dataset processing |
 | [Navya Kedhari](https://github.com/Navyakedhari) | Web Development | Frontend React UI, component design |
 | [Ankush](https://github.com/ankushsans) | Web Development | Backend Node.js, API routes |
+| [Nikhilesh](https://github.com/nikhilesh440).| Web Development | Frontend development, UI/UX |
 | [Sai Pragna](https://github.com/SaiPragnaK) | Web Development | Frontend development, UI/UX |
 | [Akhila](https://github.com/akhila607) | Web Development | Frontend development |
+
 
 **Organisation:** Infosys Springboard — BFSI Sector Cloud Architecture Cohort
 
